@@ -23,7 +23,7 @@ Each category has its own folder with well-commented code for better understandi
 
 ## 🛠️ Technologies Used
 
-- **Languages:** JavaScript, Java, Python  
+- **Languages:** JavaScript, Java  
 - **Database:** MySQL  
 - **Full Stack Development:** Node.js, Express.js, React.js  
 

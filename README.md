@@ -13,6 +13,8 @@ This repository contains solutions to a wide range of Leetcode problems, categor
 - **Linked Lists**
 - **Recursion**
 - **Stacks & Queues**
+- **Tress & Hashing**
+- **Graph**
 - **Dynamic Programming**
 - **Databases (MySQL)**
 - **Full Stack JavaScript Challenges**

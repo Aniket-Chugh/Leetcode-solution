@@ -1,6 +1,5 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        int maxVowels;
         int count = 0;
 
         for(int i=0;i<k;i++){

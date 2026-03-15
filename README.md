@@ -80,4 +80,4 @@ Follow these steps to explore the solutions locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Aniket-Chugh/Leetcode-solution.git
+   git clone https://github.com/Aniket-Chugh/DSA-Grind.git

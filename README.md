@@ -5,6 +5,11 @@ This repository demonstrates my problem-solving skills and proficiency in variou
 
 ---
 
+![Java](https://img.shields.io/badge/Language-Java-red)
+![DSA](https://img.shields.io/badge/Focus-Data%20Structures-blue)
+
+---
+
 ## 📚 Repository Overview
 
 This repository contains solutions to a wide range of Leetcode problems, categorized for easy navigation:

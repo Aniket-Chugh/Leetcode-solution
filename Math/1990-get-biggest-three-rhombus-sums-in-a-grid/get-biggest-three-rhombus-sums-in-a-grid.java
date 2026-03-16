@@ -11,18 +11,18 @@ class Solution {
 
                 set.add(grid[i][j]);
 
-                for(int k=1;k<50;k++){
-
-                    if(i-k<0 || i+k>=m || j-k<0 || j+k>=n)
-                        break;
+                for(int k=1;i-k>=0 && i+k<m && j-k>=0 && j+k<n;k++){
 
                     int sum=0;
 
                     int r=i-k,c=j;
 
                     for(int t=0;t<k;t++) sum+=grid[r++][c++];
+
                     for(int t=0;t<k;t++) sum+=grid[r++][c--];
+
                     for(int t=0;t<k;t++) sum+=grid[r--][c--];
+
                     for(int t=0;t<k;t++) sum+=grid[r--][c++];
 
                     set.add(sum);

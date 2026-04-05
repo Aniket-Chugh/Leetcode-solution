@@ -1,4 +1,4 @@
-# DSA 150+ LeetCode Problems Solved | Java DSA Journey
+# LeetCode Codeforces GeeksForGeeks Dsa Solutions Java
 
 My journey of solving Data Structures and Algorithms problems on LeetCode.
 

@@ -1,4 +1,6 @@
-# Leetcode Solutions by Aniket Chugh
+# DSA 150+ LeetCode Problems Solved | Java DSA Journey
+
+My journey of solving Data Structures and Algorithms problems on LeetCode.
 
 Welcome to my collection of **Leetcode solutions**!  
 This repository demonstrates my problem-solving skills and proficiency in various **data structures and algorithms**, which are crucial for technical interviews and real-world programming challenges.
